@@ -6,9 +6,9 @@ brew upgrade
 brew tap ethereum/ethereum
 brew install ethereum
 
-git clone https://github.com/enterprise-blockchain-book/first-edition
+https://github.com/sambhavgaur/CrowdSource-App.git
 
-Navigate to /crowdsource-app/ethereum/setup/start.json
+Navigate to /setup/start.json
 
 geth --datadir=./data init start.json
 
